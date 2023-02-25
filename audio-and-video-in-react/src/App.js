@@ -3,6 +3,7 @@ import "./App.css";
 import style_ from "./style.module.css";
 
 import { ReactMediaRecorder } from "react-media-recorder";
+// use "npm i react-media-recorder" to install
 
 function App() {
   return (
